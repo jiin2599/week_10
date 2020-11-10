@@ -1,0 +1,33 @@
+body{
+    background-color: #6f1a00;
+}
+
+.title{
+     font-family: cursive;
+    text-align: center;
+    font-size: 30px;
+    padding: 50px;
+    color: #ffe2ba;
+}
+.g{
+    color: #aa9774;
+}
+#main{
+    width: 600px;
+}
+.recipe{
+    text-align: left;
+    border: 1px solid #cea875;
+    width: 600px;
+    margin: 40px;
+}
+h1{
+    color: #c68409;
+    padding: 10px;
+    margin-left: 10px;
+    font-size: 20px;
+}
+.ol_recipe li{
+    color: #c49f4b;
+    margin-bottom: 20px;
+}

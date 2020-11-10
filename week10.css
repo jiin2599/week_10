@@ -1,0 +1,33 @@
+body{
+    background-color: #6f1a00;
+}
+
+.title{
+    font-family: cursive;
+    text-align: center;
+    font-size: 50px;
+    padding: 50px;
+    color: #ffffff;
+}
+#main{
+    width: 800px;
+    padding-bottom: 20px;
+}
+.ul_main li{
+    background: url("../week10/shrimp.png") no-repeat;
+    background-size: 22px;
+    list-style: none;
+    width: 200px;
+    margin: 30px;
+    padding-left: 30px;
+    text-align: left;
+}
+a{
+    color: beige;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ffb11e;
+}
+
